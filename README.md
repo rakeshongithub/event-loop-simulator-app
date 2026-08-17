@@ -1,3 +1,4 @@
+
 # JavaScript Event Loop Visualizer
 
 🎯 **An interactive educational tool that visualizes how JavaScript's event loop handles synchronous code, promises (microtasks), and callbacks (tasks).**
@@ -7,15 +8,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-6.0.2-blue)
 ![Vite](https://img.shields.io/badge/Vite-8.2.0-646cff)
 
-## 📸 Preview
-
-<p align="center">
-  <img src="./event-loop.jpg" alt="JavaScript Event Loop Visualizer Screenshot" width="800">
-</p>
-
 ### 🎥 Demo Video
 
-https://github.com/rakeshongithub/event-loop-simulator-app/blob/main/event-loop-in-js-simulator.mov
+https://github.com/user-attachments/assets/b41e8123-bc5a-46de-af4a-c06f0fe12ee6
 
 > **💡 Tip**: Click the video above to watch the interactive demonstration. You can also [download the video](./event-loop-in-js-simulator.mov) to view it locally.
 
