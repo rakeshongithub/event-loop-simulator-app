@@ -7,6 +7,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-6.0.2-blue)
 ![Vite](https://img.shields.io/badge/Vite-8.2.0-646cff)
 
+<p align="center">
+  <img src="src/event-loop.jpg" alt="JavaScript Event Loop Visualizer Screenshot" width="800">
+</p>
+
+### 🎥 Demo Video
+
+<p align="center">
+  <video src="event-loop-in-js-simulator.mov" width="800" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+> **Note**: If the video doesn't play in GitHub, you can [download it here](event-loop-in-js-simulator.mov) or clone the repository to view it locally.
+
 ## 🌟 What This App Does
 
 This application provides a **live, step-by-step visualization** of JavaScript's event loop execution model. It helps developers understand:
