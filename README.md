@@ -7,19 +7,17 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-6.0.2-blue)
 ![Vite](https://img.shields.io/badge/Vite-8.2.0-646cff)
 
+## 📸 Preview
+
 <p align="center">
-  <img src="src/event-loop.jpg" alt="JavaScript Event Loop Visualizer Screenshot" width="800">
+  <img src="./event-loop.jpg" alt="JavaScript Event Loop Visualizer Screenshot" width="800">
 </p>
 
 ### 🎥 Demo Video
 
-<p align="center">
-  <video src="event-loop-in-js-simulator.mov" width="800" controls>
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/rakeshongithub/event-loop-simulator-app/blob/main/event-loop-in-js-simulator.mov
 
-> **Note**: If the video doesn't play in GitHub, you can [download it here](event-loop-in-js-simulator.mov) or clone the repository to view it locally.
+> **💡 Tip**: Click the video above to watch the interactive demonstration. You can also [download the video](./event-loop-in-js-simulator.mov) to view it locally.
 
 ## 🌟 What This App Does
 
